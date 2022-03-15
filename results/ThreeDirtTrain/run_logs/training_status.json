@@ -1,0 +1,29 @@
+{
+    "ThreeDirt": {
+        "checkpoints": [
+            {
+                "steps": 300122,
+                "file_path": "results/ThreeDirtTrain/ThreeDirt/ThreeDirt-300122.onnx",
+                "reward": 3.0,
+                "creation_time": 1647376949.19315,
+                "auxillary_file_paths": [
+                    "results/ThreeDirtTrain/ThreeDirt/ThreeDirt-300122.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 300122,
+            "file_path": "results/ThreeDirtTrain/ThreeDirt.onnx",
+            "reward": 3.0,
+            "creation_time": 1647376949.19315,
+            "auxillary_file_paths": [
+                "results/ThreeDirtTrain/ThreeDirt/ThreeDirt-300122.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.8.1"
+    }
+}
